@@ -1,0 +1,24 @@
+{
+  "name": "food-trucks-api",
+  "version": "1.0.0",
+  "description": "Food Trucks API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "food",
+    "truck",
+    "trucks",
+    "api"
+  ],
+  "author": "Carlos Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
